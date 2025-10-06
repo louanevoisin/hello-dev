@@ -1,5 +1,8 @@
 # Ce qu'il faut faire
+
 *ajouter des fichiers
 *modifier des fichiers
 *Voir l'historique
-*Ne pas avoir peur des merge
+*Ne pas avoir peur des merge et des rebase
+*ajout d'utilisateur ?
+*supprimer des commits ?
